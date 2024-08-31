@@ -21,7 +21,7 @@ WinShark is a powerful, CLI-based network packet capture and analysis tool for W
 - Windows OS
 - [Scapy](https://scapy.net/)
 - [PyShark](https://github.com/KimiNewt/pyshark)
-- [Pcapy](https://pypi.org/project/pcapy/) or [Pylibpcap](https://github.com/riobard/pylibpcap) (for alternative)
+- [Pcapy](https://pypi.org/project/pcapy/) or [Pylibpcap](https://github.com/caizhengxin/python-libpcap) (for alternative)
 
 ### Setup
 
