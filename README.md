@@ -36,5 +36,10 @@ WinShark is a powerful, CLI-based network packet capture and analysis tool for W
    ```bash
    python winshark.py --help
    ```
+   You can run winshark.exe by writing:
+
+   ```bash
+   .\winshark.exe
+   ```
 ### CREDIT:
 Quy Anh Nguyen - Developer
