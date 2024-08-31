@@ -1,4 +1,5 @@
-![image](winshark_icon.png) # WinShark
+# Winshark
+![image](winshark_icon.png)
 
 WinShark is a powerful, CLI-based network packet capture and analysis tool for Windows. Inspired by Wireshark, it allows users to capture, analyze, and even inject packets on their network interfaces. This tool is designed for network professionals, ethical hackers, and anyone interested in deep network analysis.
 
